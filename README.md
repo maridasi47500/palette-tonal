@@ -8,6 +8,9 @@
 
 - 
 - escape : avec un cerf volant , reconnaître la form des nuages
+- escape : ecoute de la musique comme dans une fête foraine comme dans une montgolfière
+- trouvé un logement pour écouter de la musique dans un cloud 
+
 
 
 - escape : ecoute la musique le jour ou la nuit a lesterieur 
